@@ -1,3 +1,6 @@
 title: BotanyBase Network | Server::FooNg
 remote_theme: riggraz/no-style-please
 favicon: "logo.png"
+
+theme_config:
+  appearance: "light"
