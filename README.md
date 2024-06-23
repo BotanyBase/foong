@@ -1,4 +1,4 @@
-This website address, botanybase.foo.ng, is under the BotanyBase Network.
+This website address, botanybase.foo.ng, is under the BotanyBase Network. Provided by [foo.ng by pokymono](https://foo.ng)
 
 [To BotanyBase](https://botanybase.github.io)
 
